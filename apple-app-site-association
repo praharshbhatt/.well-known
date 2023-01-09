@@ -1,0 +1,214 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5WS7H6CP6G.com.devfacto.Sparrow",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.ensign",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.io.sparrowapp.alcanna",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.io.sparrowapp.covenant",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.csa",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.ensign",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.fcic",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.flightward",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.hhs",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.pivot",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.pwt",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.insider",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.io.sparrowapp.cialdnb",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.io.sparrowapp.wellspring",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.dcids",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.mammoth",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.cwc",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.bvi",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.graham",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.prmi",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.pennrose",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.surepoint",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      },
+      {
+        "appID": "5WS7H6CP6G.com.sparrowconnected.andersons",
+        "paths": [
+          "public-access/posts/*",
+          "*/posts/*",
+          "*/events/*",
+          "ls/*"
+        ]
+      }
+    ]
+  }
+}

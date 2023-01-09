@@ -1,0 +1,301 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devfacto.sparrow",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "C5:A0:75:A8:3A:9E:7E:22:F9:6A:4B:6B:D3:75:20:B9:AD:0D:3B:E4:93:64:DF:A0:69:4E:93:D3:CB:4B:2F:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.covenant",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "C5:A0:75:A8:3A:9E:7E:22:F9:6A:4B:6B:D3:75:20:B9:AD:0D:3B:E4:93:64:DF:A0:69:4E:93:D3:CB:4B:2F:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.csagroup",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.ensign",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.fcic",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.hhs",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.mammoth",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.alcanna",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.pivotts",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.pwt",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.graham",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.prmi",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.pennrose",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.bvi",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.tervita",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "b8:16:8e:02:d6:4a:9a:4f:73:d5:05:0b:f0:a3:45:02:86:3e:3d:58:5c:72:d5:e5:e6:44:94:f6:6d:82:15:72"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.insider",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "b8:16:8e:02:d6:4a:9a:4f:73:d5:05:0b:f0:a3:45:02:86:3e:3d:58:5c:72:d5:e5:e6:44:94:f6:6d:82:15:72"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.cwc",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "b8:16:8e:02:d6:4a:9a:4f:73:d5:05:0b:f0:a3:45:02:86:3e:3d:58:5c:72:d5:e5:e6:44:94:f6:6d:82:15:72"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.surepoint",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparrowconnected.andersons",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.alcanna",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.cialdnb",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "b8:16:8e:02:d6:4a:9a:4f:73:d5:05:0b:f0:a3:45:02:86:3e:3d:58:5c:72:d5:e5:e6:44:94:f6:6d:82:15:72"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.flightwardconnect",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "c5:a0:75:a8:3a:9e:7e:22:f9:6a:4b:6b:d3:75:20:b9:ad:0d:3b:e4:93:64:df:a0:69:4e:93:d3:cb:4b:2f:93"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.sparrowapp.wellspring",
+      "sha256_cert_fingerprints": [
+        "33:89:09:0C:95:5C:FB:CB:A7:6E:9F:EB:D6:CA:58:64:76:A8:25:FF:1C:58:9F:1E:44:77:91:0A:D0:0E:A5:4D",
+        "b8:16:8e:02:d6:4a:9a:4f:73:d5:05:0b:f0:a3:45:02:86:3e:3d:58:5c:72:d5:e5:e6:44:94:f6:6d:82:15:72"
+      ]
+    }
+  }
+]
